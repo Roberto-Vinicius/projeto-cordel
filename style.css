@@ -15,7 +15,7 @@
 body {
     min-height: 100vh; /* TAMANHO MINIMO DA ALTURA*/
     background-color: black;
-
+    text-align: center;
 }
 
 header {
@@ -44,7 +44,7 @@ a {
 }
 
 a:hover {
-    text-decoration: underline;  /*LINHA ABAICO QUANDO PASSA O MOUSE*/
+    text-decoration: underline;  /*LINHA ABAIXO QUANDO PASSA O MOUSE*/
 }
 
 section {
@@ -52,7 +52,7 @@ section {
     padding: 10vh 0 10vh 30px;
     line-height: 2em; /*ESPAÇAMENTO ENTRE AS LINHAS*/
     text-shadow: 1px 2px 1px rgba(0, 0, 0, 0.192);
-    font-size: 2.5vw;  /* SE ADAPTA A LARGURA DA TELA*/
+    font-size: 2.8vw;  /* SE ADAPTA A LARGURA DA TELA*/
 }
 
 section.normal {
